@@ -24,11 +24,11 @@ Once you have been accepted, install the Tolgee Tools extension
 
 Then:
 
-1. Open the Tolgee Tools extension on the [website](https://theintrodb.org).
-2. Go to the `Integrate` tab.
-3. Select `React`.
-4. Create an API key.
-5. Apply the API key in the extension.
+1. Go to the `Integrate` tab on the translation site.
+2. Select `React`.
+3. Create an API key.
+4. Apply the API key in the extension.
+5. Head to [TheIntroDB](theintrodb.org) to edit the site.
 
 After that, hold `Alt` on Windows/Linux or `Option` on macOS and click any string on the page to open the translation menu.
 
