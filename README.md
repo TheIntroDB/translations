@@ -17,7 +17,10 @@ We use Tolgee to manage various translations for the website.
 
 If you'd like to help translate the website, email [translate@theintrodb.org](mailto:translate@theintrodb.org) and include which language you would like to help translate.
 
-Once you have been accepted, install the [Tolgee Tools Chrome extension](https://chromewebstore.google.com/detail/tolgee-tools/hacnbapajkkfohnonhbmegojnddagfnj)
+Once you have been accepted, install the Tolgee Tools extension
+
+[Chrome](https://chromewebstore.google.com/detail/tolgee-tools/hacnbapajkkfohnonhbmegojnddagfnj)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/tolgee-tools/)
 
 Then:
 
