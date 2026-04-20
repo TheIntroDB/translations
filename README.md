@@ -23,7 +23,6 @@ This table is generated automatically by the scheduled workflow and scans each i
 | [jellyfin-plugin](https://github.com/TheIntroDB/jellyfin-plugin) | Not detected | - |
 | [stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) | Not detected | - |
 | [kodi-addon](https://github.com/TheIntroDB/kodi-addon) | [plugin.video.tidb/resources/language](https://github.com/TheIntroDB/kodi-addon/tree/main/plugin.video.tidb/resources/language) | en_gb, es_es, pl_pl |
-| [emby-plugin](https://github.com/TheIntroDB/emby-plugin) | Not detected | - |
 
 <!-- integration-translation-report:end -->
 
