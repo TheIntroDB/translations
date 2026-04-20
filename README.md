@@ -11,6 +11,22 @@ https://github.com/orgs/TheIntroDB/repositories
 
 To edit or add translation files or strings for an integration, please open a pull request in the relevant repository.
 
+<!-- integration-translation-report:start -->
+
+### Integration Status
+
+This table is generated automatically by the scheduled workflow and scans each integration repository for translation directories and locale folders. `Not detected` means the scan did not find a recognized translation structure in the repository tree.
+
+| Repository | Translation Path(s) | Languages |
+| --- | --- | --- |
+| [universal-extension](https://github.com/TheIntroDB/universal-extension) | Not detected | - |
+| [jellyfin-plugin](https://github.com/TheIntroDB/jellyfin-plugin) | Not detected | - |
+| [stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) | Not detected | - |
+| [kodi-addon](https://github.com/TheIntroDB/kodi-addon) | [plugin.video.tidb/resources/language](https://github.com/TheIntroDB/kodi-addon/tree/main/plugin.video.tidb/resources/language) | en_gb, es_es, pl_pl |
+| [emby-plugin](https://github.com/TheIntroDB/emby-plugin) | Not detected | - |
+
+<!-- integration-translation-report:end -->
+
 ## Website Translations
 
 We use Tolgee to manage various translations for the website.
