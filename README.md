@@ -28,7 +28,7 @@ Then:
 2. Select `React`.
 3. Create an API key.
 4. Apply the API key in the extension.
-5. Head to [TheIntroDB](theintrodb.org) to edit the site.
+5. Head to [TheIntroDB](https://theintrodb.org) to edit the site.
 
 After that, hold `Alt` on Windows/Linux or `Option` on macOS and click any string on the page to open the translation menu.
 
