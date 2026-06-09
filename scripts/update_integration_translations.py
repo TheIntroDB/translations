@@ -35,6 +35,10 @@ REPOSITORIES = [
         "full_name": "TheIntroDB/kodi-addon",
         "description": "A Kodi addon to skip intro, recap, credits, and preview segments in movies and TV shows with TheIntroDB!",
     },
+    {
+        "full_name": "TheIntroDB/emby-plugin",
+        "description": "An Emby plugin to skip intros, recaps, and credits with TheIntroDB",
+    },
 ]
 
 
