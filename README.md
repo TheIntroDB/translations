@@ -22,7 +22,7 @@ This table is generated automatically by the scheduled workflow and scans each i
 | [universal-extension](https://github.com/TheIntroDB/universal-extension) | [src/i18n/locales](https://github.com/TheIntroDB/universal-extension/tree/main/src/i18n/locales) | cs_cz, de, en, es, nl, pl_pl, zh_cn |
 | [jellyfin-plugin](https://github.com/TheIntroDB/jellyfin-plugin) | Not detected | - |
 | [stremio-enhanced-plugin](https://github.com/TheIntroDB/stremio-enhanced-plugin) | Not detected | - |
-| [kodi-addon](https://github.com/TheIntroDB/kodi-addon) | [plugin.video.tidb/resources/language](https://github.com/TheIntroDB/kodi-addon/tree/main/plugin.video.tidb/resources/language) | en_gb, es_es, pl_pl, zh_cn |
+| [kodi-addon](https://github.com/TheIntroDB/kodi-addon) | [plugin.video.tidb/resources/language](https://github.com/TheIntroDB/kodi-addon/tree/main/plugin.video.tidb/resources/language) | ar_sa, en_gb, es_es, pl_pl, zh_cn |
 | [emby-plugin](https://github.com/TheIntroDB/emby-plugin) | Not detected | - |
 
 <!-- integration-translation-report:end -->
