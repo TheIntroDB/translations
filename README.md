@@ -31,9 +31,9 @@ This table is generated automatically by the scheduled workflow and scans each i
 
 We use Tolgee to manage various translations for the website.
 
-If you'd like to help translate the website, email [translate@theintrodb.org](mailto:translate@theintrodb.org) and include which language you would like to help translate.
+If you'd like to help translate the website, visit https://translate.theintrodb.org/public-projects or email [translate@theintrodb.org](mailto:translate@theintrodb.org) for additional details.
 
-Once you have been accepted, install the Tolgee Tools extension
+To help translate with Tolgee, nstall the Tolgee Tools extension
 
 [Chrome](https://chromewebstore.google.com/detail/tolgee-tools/hacnbapajkkfohnonhbmegojnddagfnj)
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tolgee-tools/)
