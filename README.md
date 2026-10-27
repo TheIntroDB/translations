@@ -33,7 +33,7 @@ We use Tolgee to manage various translations for the website.
 
 If you'd like to help translate the website, visit https://translate.theintrodb.org/public-projects or email [translate@theintrodb.org](mailto:translate@theintrodb.org) for additional details.
 
-To help translate with Tolgee, nstall the Tolgee Tools extension
+To help translate with Tolgee, install the Tolgee Tools extension
 
 [Chrome](https://chromewebstore.google.com/detail/tolgee-tools/hacnbapajkkfohnonhbmegojnddagfnj)
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tolgee-tools/)
