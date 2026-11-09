@@ -61,7 +61,13 @@ After that, hold `Alt` on Windows/Linux or `Option` on macOS and click any strin
 
 ![Tolgee quick translation menu](./screenshot-2.png)
 
+## License
+
+**CC0 1.0 Universal** (`CC0-1.0`) — the contents of this repository are dedicated to the public domain. See [LICENSE](LICENSE) for the full text.
+
 ---
+
+--
 
 <p align="center">
   <a href="https://theintrodb.org"><img src="https://raw.githubusercontent.com/TheIntroDB/theintrodb-assets/main/badge.png" alt="TheIntroDB" width="44" height="44"></a>

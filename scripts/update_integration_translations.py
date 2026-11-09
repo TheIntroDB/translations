@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: CC0-1.0
+# Copyright (C) 2026 TheIntroDB
+
 
 from __future__ import annotations
 
